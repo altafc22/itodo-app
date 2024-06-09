@@ -13,7 +13,7 @@ This repository contains a Assignment project made in Flutter using Clean Archit
 
 ## Download APK
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/altafc22/todo-app/blob/main/apk/app-release.apk">Download App</a>
+    <a href="https://github.com/altafc22/itodo-app/blob/main/apk/app-release.apk">Download App</a>
 </div>
 
 ## Images

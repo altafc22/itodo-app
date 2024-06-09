@@ -51,7 +51,7 @@ SPEC CHECKSUMS:
   connectivity_plus: ddd7f30999e1faaef5967c23d5b6d503d10434db
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
   flutter_local_notifications: 4cde75091f6327eb8517fa068a0a5950212d2086
-  fluttertoast: 77ff8760d90ff5041a97e3d0c0ecaaa8472524d2
+  fluttertoast: 723e187574b149e68e63ca4d39b837586b903cfa
   isar_flutter_libs: b69f437aeab9c521821c3f376198c4371fa21073
   path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
   shared_preferences_foundation: fcdcbc04712aee1108ac7fda236f363274528f78
