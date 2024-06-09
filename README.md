@@ -18,7 +18,6 @@ This repository contains a Assignment project made in Flutter using Clean Archit
 
 ## Images
 <div style="display: flex; justify-content: space-between;">
-https://github.com/altafc22/itodo-app/blob/main/screenshots/1.png
     <img src="https://github.com/altafc22/itodo-app/blob/main/screenshots/t1.png" width="250">
     <img src="https://github.com/altafc22/itodo-app/blob/main/screenshots/t2.png" width="250">
     <img src="https://github.com/altafc22/itodo-app/blob/main/screenshots/t3.png" width="250">
