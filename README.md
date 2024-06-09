@@ -8,8 +8,8 @@ This repository contains a Assignment project made in Flutter using Clean Archit
 - network: Http
 - repository: Clean Architecture with Data, Domain, Presentation layers
 - state management: BLoc 
-- dynamic theme
-- App Localization: English-
+- Dynamic theme
+- App Localization: English-German
 
 ## Download APK
 <div style="display: flex; justify-content: space-between;">
